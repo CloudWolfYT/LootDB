@@ -1,0 +1,6 @@
+{
+  "values":[
+    "lootdb:init",
+    "math:zprivate/init"
+  ]
+}

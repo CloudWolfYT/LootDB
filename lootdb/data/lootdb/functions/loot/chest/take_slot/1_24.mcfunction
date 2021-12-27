@@ -1,0 +1,13 @@
+
+execute if score out math matches 24..24 run execute store result score out lootdb run data get storage lootdb slots[24]
+execute if score out math matches 24..24 run data remove storage lootdb slots[24]
+execute if score out math matches 25..25 run execute store result score out lootdb run data get storage lootdb slots[25]
+execute if score out math matches 25..25 run data remove storage lootdb slots[25]
+execute if score out math matches 26..26 run execute store result score out lootdb run data get storage lootdb slots[26]
+execute if score out math matches 26..26 run data remove storage lootdb slots[26]
+execute if score out math matches 27..27 run execute store result score out lootdb run data get storage lootdb slots[27]
+execute if score out math matches 27..27 run data remove storage lootdb slots[27]
+execute if score out math matches 28..28 run execute store result score out lootdb run data get storage lootdb slots[28]
+execute if score out math matches 29..29 run execute store result score out lootdb run data get storage lootdb slots[29]
+execute if score out math matches 30..30 run execute store result score out lootdb run data get storage lootdb slots[30]
+execute if score out math matches 31..31 run execute store result score out lootdb run data get storage lootdb slots[31]

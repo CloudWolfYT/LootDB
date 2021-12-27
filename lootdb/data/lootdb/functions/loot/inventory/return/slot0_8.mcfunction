@@ -1,0 +1,9 @@
+execute if score in lootdb matches 0 run loot replace entity @s hotbar.0 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 1 run loot replace entity @s hotbar.1 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 2 run loot replace entity @s hotbar.2 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 3 run loot replace entity @s hotbar.3 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 4 run loot replace entity @s hotbar.4 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 5 run loot replace entity @s hotbar.5 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 6 run loot replace entity @s hotbar.6 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 7 run loot replace entity @s hotbar.7 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 8 run loot replace entity @s hotbar.8 1 mine 1007 0 1007 air{drop_contents:true}

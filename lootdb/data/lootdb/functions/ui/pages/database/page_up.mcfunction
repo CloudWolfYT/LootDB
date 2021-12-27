@@ -1,0 +1,1 @@
+scoreboard players remove @s[scores={lootdb.page=1..}] lootdb.page 1

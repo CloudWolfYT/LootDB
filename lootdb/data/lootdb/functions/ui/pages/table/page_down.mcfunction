@@ -1,0 +1,1 @@
+scoreboard players add @s[scores={lootdb.page=..3}] lootdb.page 1

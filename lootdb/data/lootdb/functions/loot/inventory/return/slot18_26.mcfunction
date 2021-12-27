@@ -1,0 +1,9 @@
+execute if score in lootdb matches 18 run loot replace entity @s inventory.9 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 19 run loot replace entity @s inventory.10 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 20 run loot replace entity @s inventory.11 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 21 run loot replace entity @s inventory.12 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 22 run loot replace entity @s inventory.13 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 23 run loot replace entity @s inventory.14 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 24 run loot replace entity @s inventory.15 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 25 run loot replace entity @s inventory.16 1 mine 1007 0 1007 air{drop_contents:true}
+execute if score in lootdb matches 26 run loot replace entity @s inventory.17 1 mine 1007 0 1007 air{drop_contents:true}

@@ -1,0 +1,9 @@
+
+execute if score in lootdb matches 56..56 run data modify storage lootdb tables[56] set from storage lootdb in
+execute if score in lootdb matches 57..57 run data modify storage lootdb tables[57] set from storage lootdb in
+execute if score in lootdb matches 58..58 run data modify storage lootdb tables[58] set from storage lootdb in
+execute if score in lootdb matches 59..59 run data modify storage lootdb tables[59] set from storage lootdb in
+execute if score in lootdb matches 60..60 run data modify storage lootdb tables[60] set from storage lootdb in
+execute if score in lootdb matches 61..61 run data modify storage lootdb tables[61] set from storage lootdb in
+execute if score in lootdb matches 62..62 run data modify storage lootdb tables[62] set from storage lootdb in
+execute if score in lootdb matches 63..63 run data modify storage lootdb tables[63] set from storage lootdb in
